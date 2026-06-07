@@ -1,4 +1,4 @@
-# ResCa Easy
+# ResCa
 
 This is a compact release of **ResCa (Residual Caching)** for diffusion acceleration. 
 
